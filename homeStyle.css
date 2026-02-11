@@ -3,7 +3,9 @@ body{
     background-color: #EFF8E2;
 }
 
-h1{
-    color: #776F85;
-    text-align: center;
+.nav{
+    background-color: #B6B1BE;
+    color: #23967F;
+    font-size: 30px;
 }
+
