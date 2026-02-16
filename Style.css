@@ -1,11 +1,18 @@
+
+
 body{
     font-family: 'Arial', sans-serif;
     background-color: #EFF8E2;
 }
 
-.nav{
+.navStyle{
     background-color: #B6B1BE;
     color: #23967F;
     font-size: 35px;
+}
+
+h1{
+    color: #504A59;
+    font-size: 50px;
 }
 
