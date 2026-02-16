@@ -14,4 +14,26 @@ h1{
     font-size: 50px;
 }
 
+.github-logo {
+    width: 60px;
+    height: 60px;
+}
+
+/* Mobile responsive styles */
+@media (max-width: 767px) {
+    .navStyle {
+        font-size: 16px;
+        padding: 0.4rem !important;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+    
+    .github-logo {
+        width: 35px;
+        height: 35px;
+    }
+}
+
 
