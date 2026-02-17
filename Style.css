@@ -8,6 +8,10 @@ body{
     font-size: 35px;
 }
 
+.emphasisedText{
+    color: #23967F;
+}
+
 h1{
     color: #504A59;
     font-size: 50px;
